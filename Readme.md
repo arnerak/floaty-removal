@@ -7,6 +7,8 @@ This repository provides the implementation of our post-processing approach for 
 
 A Dockerfile is provided for ease of use.
 
+Python bindings for manipulating the density grid in Instant-NGP are provided in [our Instant-NGP fork](https://github.com/arnerak/instant-ngp/tree/density-grid).
+
 ## Prerequisites
 
 1. NVIDIA GPU (RTX 20 Series and above)
